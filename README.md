@@ -5,6 +5,7 @@ username:admin
 password:admin
 ----------------------------------
 !!!!!En az 2 film olması zorunlu aksi taktirde hata vericektir!!!!!
+database .bak dosyasındadır.2 adet table içerir.
 admin girişinden film ekleme ve çıkarma yapılabilir.
 --------user girişi için----------
 username:asd
